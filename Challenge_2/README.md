@@ -12,7 +12,7 @@ In this challenge, you will configure an IoT device to act as a smart camera, wh
 **[Mahendra content here]**
 
 ## Deploy Lambda Code to IoT Device
-**[Mahendra content here]**
+**[Mahendra content here]** S3 Zip file
 
 ## Create Rekognition Lambda
 
